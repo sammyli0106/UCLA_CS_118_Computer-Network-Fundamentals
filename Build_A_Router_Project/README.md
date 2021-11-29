@@ -1,5 +1,4 @@
 Name: Sum Yi Li
-UID: 505146702
 
 High leve design of the implementation:
 
